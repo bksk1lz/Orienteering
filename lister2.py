@@ -3,7 +3,7 @@ import os
 filelist = [] #Initialize list of files in directory
 
 #Get a list of all .xml files in directory
-for file in os.listdir("/Users/Ben/Dropbox/Orienteering/2014sprint"):
+for file in os.getcwd():
     if file.endswith(".xml"):
         filelist.append(file)
 
