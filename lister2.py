@@ -3,13 +3,11 @@ import os
 filelist = [] #Initialize list of files in directory
 
 #Get a list of all .xml files in directory
-for file in os.getcwd():
+for file in os.listdir(os.getcwd()):
     if file.endswith(".xml"):
         filelist.append(file)
 
 namelist = [{}] #Initialize dictionary list of names and race results
-
-
 
 
 pointslist = [100, 90, 81, 73, 66, 60, 55, 51, 47, 44, 41, 39, 37, 36, 35, 34,
@@ -58,6 +56,19 @@ for i, file in enumerate(filelist):
                                 racenumstr:pointslist[raceposval - 1]})
                 
             raceposval = 100
+
+from operator import itemgetter
+            
+for entry in namelist:
+    best10 = dict(sorted(entry.iteritems(), key = itemgetter(1), reverse = True)[1:11])
+    # sorts all dictionary values into a list. The text entry (person's name) is first
+    # the best 10 points values are 1 - 11 in the list. they are stored in the dictionary
+    # best10
+    entry['sumbest10'] = sum(best10.itervalues())
+    #sum of the 10 best entries is added to each runners dictionary under the entry "sumbest10"
+
+racenumlist.append('sumbest10') 
+#adds the sumbest10 entry title to racenumlist for inclusion in csv output
 
 import csv
 #write output .csv file.

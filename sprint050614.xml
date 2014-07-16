@@ -149,54 +149,6 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Orie</Family>
-<Given>2019530</Given>
-<Given>Scarborough</Given></PersonName>
-<PersonId>2019530-33</PersonId></Person>
-<Club>
-<ClubId></ClubId>
-<ShortName></ShortName>
-<CountryId value="other"/></Club>
-<Result>
-<CCard>
-<CCardId>2019530</CCardId>
-<PunchingUnitType value="SI"/></CCard>
-<Time>13:38</Time>
-<ResultPosition>4</ResultPosition>
-<CompetitorStatus value="OK"/>
-<SplitTime sequence="1">
-<ControlCode>31</ControlCode>
-<Time>0:25</Time></SplitTime>
-<SplitTime sequence="2">
-<ControlCode>32</ControlCode>
-<Time>2:13</Time></SplitTime>
-<SplitTime sequence="3">
-<ControlCode>33</ControlCode>
-<Time>2:34</Time></SplitTime>
-<SplitTime sequence="4">
-<ControlCode>34</ControlCode>
-<Time>4:24</Time></SplitTime>
-<SplitTime sequence="5">
-<ControlCode>35</ControlCode>
-<Time>5:57</Time></SplitTime>
-<SplitTime sequence="6">
-<ControlCode>36</ControlCode>
-<Time>6:49</Time></SplitTime>
-<SplitTime sequence="7">
-<ControlCode>37</ControlCode>
-<Time>8:37</Time></SplitTime>
-<SplitTime sequence="8">
-<ControlCode>39</ControlCode>
-<Time>9:43</Time></SplitTime>
-<SplitTime sequence="9">
-<ControlCode>40</ControlCode>
-<Time>12:07</Time></SplitTime>
-<SplitTime sequence="10">
-<ControlCode>34</ControlCode>
-<Time>13:26</Time></SplitTime></Result></PersonResult>
-<PersonResult>
-<Person>
-<PersonName>
 <Family>Hamilton</Family>
 <Given>Jeff</Given></PersonName>
 <PersonId>432191-17</PersonId></Person>
@@ -209,7 +161,7 @@
 <CCardId>432191</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>14:14</Time>
-<ResultPosition>5</ResultPosition>
+<ResultPosition>4</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -256,7 +208,7 @@
 <CCardId>7049</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>14:57</Time>
-<ResultPosition>6</ResultPosition>
+<ResultPosition>5</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -303,7 +255,7 @@
 <CCardId>420794</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>15:29</Time>
-<ResultPosition>7</ResultPosition>
+<ResultPosition>6</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -350,7 +302,7 @@
 <CCardId>437951</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>16:41</Time>
-<ResultPosition>8</ResultPosition>
+<ResultPosition>7</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -397,7 +349,7 @@
 <CCardId>432188</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>17:35</Time>
-<ResultPosition>9</ResultPosition>
+<ResultPosition>8</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -444,7 +396,7 @@
 <CCardId>2019571</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>17:43</Time>
-<ResultPosition>10</ResultPosition>
+<ResultPosition>9</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -491,7 +443,7 @@
 <CCardId>2019536</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>18:48</Time>
-<ResultPosition>11</ResultPosition>
+<ResultPosition>10</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -538,7 +490,7 @@
 <CCardId>2019540</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>19:28</Time>
-<ResultPosition>12</ResultPosition>
+<ResultPosition>11</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -585,7 +537,7 @@
 <CCardId>432196</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>20:40</Time>
-<ResultPosition>13</ResultPosition>
+<ResultPosition>12</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -632,7 +584,7 @@
 <CCardId>437917</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>20:43</Time>
-<ResultPosition>14</ResultPosition>
+<ResultPosition>13</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -726,7 +678,7 @@
 <CCardId>437943</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>21:01</Time>
-<ResultPosition>16</ResultPosition>
+<ResultPosition>15</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -773,7 +725,7 @@
 <CCardId>437955</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>21:37</Time>
-<ResultPosition>17</ResultPosition>
+<ResultPosition>16</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -820,7 +772,7 @@
 <CCardId>2019525</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>21:50</Time>
-<ResultPosition>18</ResultPosition>
+<ResultPosition>17</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -867,7 +819,7 @@
 <CCardId>420788</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>22:38</Time>
-<ResultPosition>19</ResultPosition>
+<ResultPosition>18</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -914,7 +866,7 @@
 <CCardId>255425</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>22:55</Time>
-<ResultPosition>20</ResultPosition>
+<ResultPosition>19</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -961,7 +913,7 @@
 <CCardId>2019595</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>24:22</Time>
-<ResultPosition>21</ResultPosition>
+<ResultPosition>20</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1008,7 +960,7 @@
 <CCardId>2019598</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>24:44</Time>
-<ResultPosition>22</ResultPosition>
+<ResultPosition>21</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1055,7 +1007,7 @@
 <CCardId>2019591</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>24:51</Time>
-<ResultPosition>23</ResultPosition>
+<ResultPosition>22</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1103,7 +1055,7 @@
 <CCardId>2019580</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>28:32</Time>
-<ResultPosition>24</ResultPosition>
+<ResultPosition>23</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1150,7 +1102,7 @@
 <CCardId>2019587</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>29:43</Time>
-<ResultPosition>25</ResultPosition>
+<ResultPosition>24</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1198,7 +1150,7 @@
 <CCardId>2019532</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>31:11</Time>
-<ResultPosition>26</ResultPosition>
+<ResultPosition>25</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1245,7 +1197,7 @@
 <CCardId>432156</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>37:28</Time>
-<ResultPosition>27</ResultPosition>
+<ResultPosition>26</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1292,7 +1244,7 @@
 <CCardId>432157</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>37:33</Time>
-<ResultPosition>28</ResultPosition>
+<ResultPosition>27</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
@@ -1339,7 +1291,7 @@
 <CCardId>437901</CCardId>
 <PunchingUnitType value="SI"/></CCard>
 <Time>38:37</Time>
-<ResultPosition>29</ResultPosition>
+<ResultPosition>28</ResultPosition>
 <CompetitorStatus value="OK"/>
 <SplitTime sequence="1">
 <ControlCode>31</ControlCode>
