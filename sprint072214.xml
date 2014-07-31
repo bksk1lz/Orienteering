@@ -505,7 +505,7 @@
 <Person>
 <PersonName>
 <Family>Lee</Family>
-<Given>Tamey</Given></PersonName>
+<Given>James</Given></PersonName>
 <PersonId>437945-21</PersonId></Person>
 <Club>
 <ClubId></ClubId>
@@ -814,8 +814,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Moiseera</Family>
-<Given>Eugeniya</Given></PersonName>
+<Family>Moiseeva</Family>
+<Given>Evgeniya</Given></PersonName>
 <PersonId>2019577-14</PersonId></Person>
 <Club>
 <ClubId></ClubId>
@@ -1620,7 +1620,7 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>Fessoluzza</Family>
+<Family>Fossaluzza</Family>
 <Given>Anthony</Given></PersonName>
 <PersonId>2019575-24</PersonId></Person>
 <Club>

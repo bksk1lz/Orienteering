@@ -1700,9 +1700,8 @@
 <PersonResult>
 <Person>
 <PersonName>
-<Family>UofL</Family>
-<Given>Mary</Given>
-<Given>Wallace</Given></PersonName>
+<Family>Wallace</Family>
+<Given>Mary</Given></PersonName>
 <PersonId>432156-13</PersonId></Person>
 <Club>
 <ClubId></ClubId>
