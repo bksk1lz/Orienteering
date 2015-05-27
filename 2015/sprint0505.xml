@@ -1558,4 +1558,54 @@
 <Time>55:40</Time></SplitTime>
 <SplitTime sequence="11">
 <ControlCode>47</ControlCode>
-<Time>57:35</Time></SplitTime></Result></PersonResult></ClassResult></ResultList>
+<Time>57:35</Time></SplitTime></Result></PersonResult>
+
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Beharic</Family>
+<Given>Jasmin</Given></PersonName>
+<PersonId>2019535-18</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019535</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>13:12</Time>
+<CompetitorStatus value="MisPunch"/>
+<SplitTime sequence="1">
+<ControlCode>31</ControlCode>
+<Time>0:11</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>32</ControlCode>
+<Time>2:08</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>35</ControlCode>
+<Time>2:58</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>44</ControlCode>
+<Time>4:57</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>48</ControlCode>
+<Time>6:04</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>51</ControlCode>
+<Time>7:12</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>41</ControlCode>
+<Time>7:53</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>39</ControlCode>
+<Time>9:14</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>42</ControlCode>
+<Time>10:44</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>46</ControlCode>
+<Time>12:27</Time></SplitTime>
+<SplitTime sequence="11">
+<ControlCode>47</ControlCode>
+<Time>12:59</Time></SplitTime></Result></PersonResult></ClassResult></ResultList>
