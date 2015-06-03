@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ResultList SYSTEM "IOFdata.dtd">
+<ResultList status="complete">
+<EventId type="loc" idManager="anyone">Hogans Cherokee June 2 2015</EventId>
+<ClassResult>
+<ClassShortName>Sprint 1</ClassShortName>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>King</Family>
+<Given>Ben</Given></PersonName>
+<PersonId>2019533-25</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019533</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>9:06</Time>
+<ResultPosition>1</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:24</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>1:24</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>2:29</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>3:20</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>3:57</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>4:44</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>6:06</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>6:58</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>7:39</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>8:31</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Fossaluzza</Family>
+<Given>Anthony</Given></PersonName>
+<PersonId>437935-16</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437935</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>10:29</Time>
+<ResultPosition>2</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:26</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>1:11</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>2:15</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>3:17</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>3:42</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>5:46</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>6:36</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>7:34</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>8:49</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>9:51</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Gerstle</Family>
+<Given>Chris</Given></PersonName>
+<PersonId>2019587-36</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019587</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>12:46</Time>
+<ResultPosition>3</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:01</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>2:14</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>3:34</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>5:20</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>6:10</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>7:19</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>8:37</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>9:43</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>10:43</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>12:12</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Smith3</Family>
+<Given>Louis</Given></PersonName>
+<PersonId>437936-42</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437936</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>13:42</Time>
+<ResultPosition>4</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:49</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>1:48</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>2:58</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>4:15</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>4:55</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>7:49</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>8:54</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>9:49</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>11:58</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>13:04</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Smith</Family>
+<Given>Aaron</Given></PersonName>
+<PersonId>432176-3</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>432176</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>14:09</Time>
+<ResultPosition>5</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:44</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>1:48</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>3:21</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>4:59</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>7:27</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>8:42</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>10:01</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>11:01</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>11:58</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>13:30</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Hamilton</Family>
+<Given>Jeff</Given></PersonName>
+<PersonId>432191-57</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>432191</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>17:16</Time>
+<ResultPosition>6</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:12</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>2:33</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>4:22</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>6:46</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>8:28</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>10:24</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>12:12</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>13:26</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>14:47</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>16:28</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Torpey</Family>
+<Given>Carson</Given></PersonName>
+<PersonId>2019580-17</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019580</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>17:20</Time>
+<ResultPosition>7</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:02</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>2:28</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>4:36</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>6:46</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>8:20</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>9:57</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>11:59</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>13:27</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>14:42</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>16:26</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Siu</Family>
+<Given>Marcus</Given></PersonName>
+<PersonId>437955-35</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437955</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>19:23</Time>
+<ResultPosition>8</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:41</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>1:52</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>3:37</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>4:40</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>12:52</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>13:44</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>15:58</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>16:49</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>17:43</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>18:48</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Kling</Family>
+<Given>Ken</Given></PersonName>
+<PersonId>432172-32</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>432172</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>19:32</Time>
+<ResultPosition>9</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:28</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>3:35</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>5:34</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>7:50</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>9:25</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>11:03</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>12:58</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>14:55</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>16:32</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>18:43</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Keens</Family>
+<Given>Kathryn</Given></PersonName>
+<PersonId>2019574-45</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019574</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>20:40</Time>
+<ResultPosition>10</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:28</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>3:24</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>5:39</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>8:08</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>9:24</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>10:38</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>12:51</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>14:35</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>17:43</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>19:51</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Dunlap</Family>
+<Given>Ryan</Given></PersonName>
+<PersonId>2019531-9</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019531</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>21:06</Time>
+<ResultPosition>11</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:31</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>1:30</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>3:22</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>14:01</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>14:29</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>15:47</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>17:06</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>18:01</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>18:46</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>20:35</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Bowen</Family>
+<Given>Mike</Given></PersonName>
+<PersonId>2019535-54</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019535</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>21:26</Time>
+<ResultPosition>12</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:55</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>2:34</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>4:22</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>6:57</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>8:29</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>9:33</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>11:35</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>13:01</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>19:03</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>20:45</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Wallace</Family>
+<Given>Mary</Given></PersonName>
+<PersonId>437953-1</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437953</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>21:27</Time>
+<ResultPosition>13</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:20</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>2:46</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>4:11</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>5:40</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>12:25</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>13:56</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>15:57</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>17:08</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>18:18</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>20:50</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Ferguson</Family>
+<Given>Laura</Given></PersonName>
+<PersonId>437925-53</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437925</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>21:49</Time>
+<ResultPosition>14</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:28</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>3:12</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>4:45</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>7:17</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>8:49</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>9:58</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>11:59</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>13:37</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>19:24</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>21:04</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Wallace</Family>
+<Given>Corey</Given></PersonName>
+<PersonId>2019532-2</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019532</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>21:58</Time>
+<ResultPosition>15</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:04</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>2:17</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>3:35</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>9:28</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>12:27</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>14:48</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>16:41</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>17:49</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>19:15</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>21:15</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Lister</Family>
+<Given>Ross</Given></PersonName>
+<PersonId>437959-31</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437959</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>22:27</Time>
+<ResultPosition>16</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>2:42</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>5:16</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>7:01</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>10:40</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>11:54</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>14:58</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>16:34</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>18:15</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>19:33</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>21:41</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Vest</Family>
+<Given>Lloyd</Given></PersonName>
+<PersonId>437929-51</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437929</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>24:42</Time>
+<ResultPosition>17</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:38</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>3:37</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>6:10</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>10:56</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>12:49</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>14:38</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>17:22</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>19:16</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>20:54</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>23:37</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Smith</Family>
+<Given>Louis</Given></PersonName>
+<PersonId>255425-8</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>255425</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>25:03</Time>
+<ResultPosition>18</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:44</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>3:38</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>5:26</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>8:51</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>10:21</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>12:03</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>14:15</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>20:21</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>21:49</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>24:02</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Keefe</Family>
+<Given>Douglas</Given></PersonName>
+<PersonId>437954-22</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437954</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>25:12</Time>
+<ResultPosition>19</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:21</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>3:26</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>9:42</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>11:23</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>13:37</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>15:18</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>18:53</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>20:37</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>22:11</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>24:23</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Hoehn</Family>
+<Given>Tyler</Given></PersonName>
+<PersonId>2019536-18</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019536</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>28:01</Time>
+<ResultPosition>20</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>2:28</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>4:31</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>6:26</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>8:17</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>13:32</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>16:15</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>22:43</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>24:16</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>25:34</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>27:17</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>LukeJeziorski</Family>
+<Given>Mark</Given></PersonName>
+<PersonId>2019537-7</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019537</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>30:30</Time>
+<ResultPosition>21</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:27</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>4:48</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>7:53</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>12:08</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>13:20</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>21:42</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>23:52</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>25:42</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>27:28</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>29:29</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Medley</Family>
+<Given>Melissa</Given></PersonName>
+<PersonId>2019592-55</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019592</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>35:53</Time>
+<ResultPosition>22</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>2:05</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>4:43</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>7:28</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>16:35</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>19:46</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>24:30</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>27:24</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>30:28</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>32:21</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>34:35</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Ewart</Family>
+<Given>Alison</Given></PersonName>
+<PersonId>437958-20</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437958</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>38:05</Time>
+<ResultPosition>23</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>2:14</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>5:22</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>8:31</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>14:49</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>18:58</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>21:53</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>26:14</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>29:08</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>31:59</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>36:03</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Vice</Family>
+<Given>Paul</Given></PersonName>
+<PersonId>437933-21</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437933</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>38:17</Time>
+<ResultPosition>24</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>2:14</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>5:26</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>8:44</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>14:56</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>19:06</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>22:37</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>26:23</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>29:20</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>32:04</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>36:13</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Bainbridge</Family>
+<Given>Anne</Given></PersonName>
+<PersonId>437924-10</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437924</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>38:41</Time>
+<ResultPosition>25</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:52</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>4:19</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>7:18</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>15:22</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>19:43</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>22:43</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>27:29</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>30:01</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>32:57</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>37:29</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Robinson</Family>
+<Given>Susan</Given></PersonName>
+<PersonId>2019577-14</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019577</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>38:44</Time>
+<ResultPosition>26</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:50</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>4:24</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>7:18</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>15:32</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>19:48</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>22:35</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>27:32</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>30:05</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>33:04</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>37:32</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>andLisa</Family>
+<Given>Mark</Given></PersonName>
+<PersonId>2019571-12</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019571</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>40:41</Time>
+<ResultPosition>27</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>3:16</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>6:37</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>12:07</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>16:20</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>20:52</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>23:35</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>28:57</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>32:28</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>35:22</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>38:55</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Torpey</Family>
+<Given>Alison</Given></PersonName>
+<PersonId>2019591-37</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019591</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>51:08</Time>
+<ResultPosition>28</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:38</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>5:18</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>7:53</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>35:53</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>37:16</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>39:32</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>43:08</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>45:14</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>47:00</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>49:56</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Rue</Family>
+<Given>Mark</Given></PersonName>
+<PersonId>2019524-24</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019524</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>51:19</Time>
+<ResultPosition>29</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>1:59</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>4:16</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>7:12</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>39:11</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>40:23</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>41:55</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>44:25</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>46:04</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>47:26</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>50:29</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Millanti</Family>
+<Given>Angie</Given></PersonName>
+<PersonId>437956-39</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437956</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>55:52</Time>
+<ResultPosition>30</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>3:49</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>8:29</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>15:00</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>21:04</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>28:12</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>35:47</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>43:29</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>47:10</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>50:08</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>54:16</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Neely</Family>
+<Given>Joshua</Given></PersonName>
+<PersonId>437922-38</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437922</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>55:54</Time>
+<ResultPosition>31</ResultPosition>
+<CompetitorStatus value="OK"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>3:53</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>8:29</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>15:05</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>21:01</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>28:15</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>35:49</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>43:27</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>47:16</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>50:07</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>54:11</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Holman</Family>
+<Given>Gaye</Given></PersonName>
+<PersonId>2019525-64</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019525</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>94:13</Time>
+<CompetitorStatus value="MisPunch"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>2:58</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>14:54</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>20:45</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>34:53</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>48:39</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>57:41</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>67:51</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>-----</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>87:36</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>92:23</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Regnier</Family>
+<Given>A</Given></PersonName>
+<PersonId>2019594-65</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>2019594</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>94:21</Time>
+<CompetitorStatus value="MisPunch"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>2:58</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>14:50</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>20:47</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>35:04</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>48:47</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>57:52</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>67:41</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>-----</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>87:04</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>92:20</Time></SplitTime></Result></PersonResult>
+<PersonResult>
+<Person>
+<PersonName>
+<Family>Ludwig</Family>
+<Given>Shannon</Given></PersonName>
+<PersonId>437960-19</PersonId></Person>
+<Club>
+<ClubId></ClubId>
+<ShortName></ShortName>
+<CountryId value="other"/></Club>
+<Result>
+<CCard>
+<CCardId>437960</CCardId>
+<PunchingUnitType value="SI"/></CCard>
+<Time>22:48</Time>
+<CompetitorStatus value="MisPunch"/>
+<SplitTime sequence="1">
+<ControlCode>41</ControlCode>
+<Time>0:58</Time></SplitTime>
+<SplitTime sequence="2">
+<ControlCode>55</ControlCode>
+<Time>2:13</Time></SplitTime>
+<SplitTime sequence="3">
+<ControlCode>49</ControlCode>
+<Time>-----</Time></SplitTime>
+<SplitTime sequence="4">
+<ControlCode>50</ControlCode>
+<Time>8:33</Time></SplitTime>
+<SplitTime sequence="5">
+<ControlCode>51</ControlCode>
+<Time>11:07</Time></SplitTime>
+<SplitTime sequence="6">
+<ControlCode>56</ControlCode>
+<Time>13:14</Time></SplitTime>
+<SplitTime sequence="7">
+<ControlCode>52</ControlCode>
+<Time>-----</Time></SplitTime>
+<SplitTime sequence="8">
+<ControlCode>53</ControlCode>
+<Time>14:55</Time></SplitTime>
+<SplitTime sequence="9">
+<ControlCode>54</ControlCode>
+<Time>16:02</Time></SplitTime>
+<SplitTime sequence="10">
+<ControlCode>48</ControlCode>
+<Time>21:51</Time></SplitTime></Result></PersonResult></ClassResult></ResultList>
